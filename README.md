@@ -1,2 +1,2 @@
-# test-
-first time creating a repo just to have an experience
+# tesT
+To get factorial of any number use this code
